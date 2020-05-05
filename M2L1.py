@@ -46,8 +46,8 @@ def main():
     print()
     
     #exercise
-    classCode = CTEC121
-    classCount = 18
-    className = Introduction to Problem Solving
-    print("Welcome to", classCode, ". the student count ", classCount, "and tghe name of the class is ", className, sep="")
+    classCode = "CTEC121"
+    classCount = "18"
+    className = "Introduction to Problem Solving"
+    print("Welcome to ", classCode, ". the student count is ", classCount, " and the name of the class is ", className, sep="")
 main()    
